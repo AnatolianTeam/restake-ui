@@ -1,16 +1,5 @@
 [
   {
-    "name": "osmosis",
-    "ownerAddress": "osmovaloper1u5v0m74mql5nzfx2yh43s2tke4mvzghr6m2n5t",
-    "maxPerDay": 1,
-    "apiVersions": {
-      "gov": "v1beta1"
-    },
-    "authzAminoExecPreventTypes": [
-      "/cosmos.gov."
-    ]
-  },
-  {
     "name": "rebus",
     "ownerAddress": "rebusvaloper183hv37en2dayslgf03zfr57crtjrchuazwm9h9"
   },
